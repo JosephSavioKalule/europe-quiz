@@ -2,6 +2,7 @@
 
 ## Build
 ```bash
+./scripts/fetch_globe_assets.sh   # download globe.gl + earth texture (first time only)
 ./gradlew assembleDebug
 ```
 

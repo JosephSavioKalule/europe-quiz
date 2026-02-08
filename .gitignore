@@ -13,3 +13,7 @@ local.properties
 *.aab
 *.ap_
 *.dex
+
+# Globe assets fetched by scripts/fetch_globe_assets.sh
+app/src/main/assets/globe/globe.gl.min.js
+app/src/main/assets/globe/earth-blue-marble.jpg

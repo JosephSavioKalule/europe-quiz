@@ -35,7 +35,7 @@ PROJECT_ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 SDK_DIR = os.path.expanduser("~/Library/Android/sdk")
 ADB = os.path.join(SDK_DIR, "platform-tools", "adb")
 EMULATOR = os.path.join(SDK_DIR, "emulator", "emulator")
-APP_PACKAGE = "com.example.africaquiz"
+APP_PACKAGE = "com.mufradat.africaquiz"
 MAIN_ACTIVITY = f"{APP_PACKAGE}/.MainActivity"
 APK_PATH = os.path.join(
     PROJECT_ROOT, "app", "build", "outputs", "apk", "debug", "app-debug.apk"

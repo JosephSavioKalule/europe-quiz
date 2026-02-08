@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.africaquiz"
+    namespace = "com.mufradat.africaquiz"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.africaquiz"
+        applicationId = "com.mufradat.africaquiz"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
