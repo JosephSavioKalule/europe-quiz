@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mufradat.africaquiz"
+    namespace = "com.mufradat.europequiz"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.mufradat.africaquiz"
+        applicationId = "com.mufradat.europequiz"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -29,7 +29,7 @@ android {
                     ?: (System.getProperty("user.home") + "/.android/release.keystore")
             )
             storePassword = props.getProperty("release.storePassword") ?: ""
-            keyAlias = props.getProperty("release.keyAlias") ?: "africa-quiz"
+            keyAlias = props.getProperty("release.keyAlias") ?: "europe-quiz"
             keyPassword = props.getProperty("release.keyPassword") ?: ""
         }
     }

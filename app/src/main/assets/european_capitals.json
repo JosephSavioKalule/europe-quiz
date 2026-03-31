@@ -1,0 +1,358 @@
+{
+  "countries": [
+    {
+      "name": "Albania",
+      "capital": "Tirana",
+      "lng": 19.82,
+      "lat": 41.33
+    },
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "lng": 1.52,
+      "lat": 42.51
+    },
+    {
+      "name": "Austria",
+      "capital": "Vienna",
+      "lng": 16.37,
+      "lat": 48.21
+    },
+    {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "lng": 27.57,
+      "lat": 53.9
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "lng": 4.35,
+      "lat": 50.85
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "lng": 18.36,
+      "lat": 43.85
+    },
+    {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "lng": 23.32,
+      "lat": 42.7
+    },
+    {
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "lng": 15.98,
+      "lat": 45.81
+    },
+    {
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "lng": 33.37,
+      "lat": 35.17
+    },
+    {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "lng": 14.42,
+      "lat": 50.09
+    },
+    {
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "lng": 12.57,
+      "lat": 55.68
+    },
+    {
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "lng": 24.75,
+      "lat": 59.44
+    },
+    {
+      "name": "Faroe Islands",
+      "capital": "Tórshavn",
+      "lng": -6.77,
+      "lat": 62.01
+    },
+    {
+      "name": "Finland",
+      "capital": "Helsinki",
+      "lng": 24.94,
+      "lat": 60.17
+    },
+    {
+      "name": "France",
+      "capital": "Paris",
+      "lng": 2.35,
+      "lat": 48.85
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "lng": 13.41,
+      "lat": 52.52
+    },
+    {
+      "name": "Gibraltar",
+      "capital": "Gibraltar",
+      "lng": -5.35,
+      "lat": 36.14
+    },
+    {
+      "name": "Greece",
+      "capital": "Athens",
+      "lng": 23.72,
+      "lat": 37.98
+    },
+    {
+      "name": "Guernsey",
+      "capital": "St Peter Port",
+      "lng": -2.54,
+      "lat": 49.46
+    },
+    {
+      "name": "Hungary",
+      "capital": "Budapest",
+      "lng": 19.04,
+      "lat": 47.5
+    },
+    {
+      "name": "Iceland",
+      "capital": "Reykjavík",
+      "lng": -21.9,
+      "lat": 64.14
+    },
+    {
+      "name": "Ireland",
+      "capital": "Dublin",
+      "lng": -6.25,
+      "lat": 53.33
+    },
+    {
+      "name": "Isle of Man",
+      "capital": "Douglas",
+      "lng": -4.48,
+      "lat": 54.15
+    },
+    {
+      "name": "Italy",
+      "capital": "Rome",
+      "lng": 12.48,
+      "lat": 41.89
+    },
+    {
+      "name": "Jersey",
+      "capital": "Saint Helier",
+      "lng": -2.1,
+      "lat": 49.19
+    },
+    {
+      "name": "Kosovo",
+      "capital": "Pristina",
+      "lng": 21.17,
+      "lat": 42.67
+    },
+    {
+      "name": "Latvia",
+      "capital": "Riga",
+      "lng": 24.11,
+      "lat": 56.95
+    },
+    {
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "lng": 9.52,
+      "lat": 47.14
+    },
+    {
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "lng": 25.28,
+      "lat": 54.69
+    },
+    {
+      "name": "Luxembourg",
+      "capital": "Luxembourg",
+      "lng": 6.13,
+      "lat": 49.61
+    },
+    {
+      "name": "Macedonia",
+      "capital": "Skopje",
+      "lng": 21.43,
+      "lat": 42
+    },
+    {
+      "name": "Malta",
+      "capital": "Valletta",
+      "lng": 14.51,
+      "lat": 35.9
+    },
+    {
+      "name": "Moldova",
+      "capital": "Chişinău",
+      "lng": 28.86,
+      "lat": 47.01
+    },
+    {
+      "name": "Monaco",
+      "capital": "Monaco",
+      "lng": 7.42,
+      "lat": 43.73
+    },
+    {
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "lng": 19.26,
+      "lat": 42.44
+    },
+    {
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "lng": 4.89,
+      "lat": 52.37
+    },
+    {
+      "name": "Norway",
+      "capital": "Oslo",
+      "lng": 10.75,
+      "lat": 59.91
+    },
+    {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "lng": 21.01,
+      "lat": 52.23
+    },
+    {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "lng": -9.13,
+      "lat": 38.72
+    },
+    {
+      "name": "Romania",
+      "capital": "Bucharest",
+      "lng": 26.11,
+      "lat": 44.43
+    },
+    {
+      "name": "Russia",
+      "capital": "Moscow",
+      "lng": 37.62,
+      "lat": 55.75
+    },
+    {
+      "name": "San Marino",
+      "capital": "San Marino",
+      "lng": 12.45,
+      "lat": 43.94
+    },
+    {
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "lng": 20.47,
+      "lat": 44.8
+    },
+    {
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "lng": 17.11,
+      "lat": 48.15
+    },
+    {
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "lng": 14.51,
+      "lat": 46.05
+    },
+    {
+      "name": "Spain",
+      "capital": "Madrid",
+      "lng": -3.7,
+      "lat": 40.42
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "capital": "Longyearbyen",
+      "lng": 15.64,
+      "lat": 78.22
+    },
+    {
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "lng": 18.06,
+      "lat": 59.33
+    },
+    {
+      "name": "Switzerland",
+      "capital": "Berne",
+      "lng": 7.45,
+      "lat": 46.95
+    },
+    {
+      "name": "Ukraine",
+      "capital": "Kiev",
+      "lng": 30.52,
+      "lat": 50.45
+    },
+    {
+      "name": "United Kingdom",
+      "capital": "London",
+      "lng": -0.13,
+      "lat": 51.51
+    },
+    {
+      "name": "Vatican",
+      "capital": "Vatican",
+      "lng": 12.45,
+      "lat": 41.9
+    }
+  ],
+  "distractors": [
+    "Antwerp",
+    "Barcelona",
+    "Batumi",
+    "Bergen",
+    "Brno",
+    "Cork",
+    "Debrecen",
+    "Graz",
+    "Iasi",
+    "Istanbul",
+    "Krakow",
+    "Limassol",
+    "Lyon",
+    "Milan",
+    "Novi Sad",
+    "Plovdiv",
+    "Porto",
+    "Prizren",
+    "Saint Petersburg",
+    "Zurich",
+    "Baku",
+    "Hamburg",
+    "Munich",
+    "Kharkiv",
+    "Kazan",
+    "Ufa",
+    "Birmingham",
+    "Krasnodar",
+    "Samara",
+    "Rostov-on-Don",
+    "Yerevan",
+    "Voronezh",
+    "Perm",
+    "Cologne",
+    "Volgograd",
+    "Odesa",
+    "Nizhny Novgorod",
+    "Gothenburg",
+    "Oulu",
+    "Trondheim"
+  ]
+}
