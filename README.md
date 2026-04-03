@@ -1,18 +1,10 @@
-# Africa Quiz
+# Europe Quiz
 
-An Android quiz game that tests your knowledge of African capital cities, featuring an interactive 3D globe powered by [Globe.gl](https://globe.gl/).
+An Android quiz game that tests your knowledge of European capital cities, featuring an interactive 3D globe powered by [Globe.gl](https://globe.gl/).
 
 ## Attribution
 Cloned from [https://codeberg.org/Mufradat/africa-quiz](https://codeberg.org/Mufradat/africa-quiz)
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/01_home.png" width="200" alt="Home screen" />
-  <img src="screenshots/02_quiz.png" width="200" alt="Quiz with 3D globe" />
-  <img src="screenshots/03_answer_feedback.png" width="200" alt="Answer feedback" />
-  <img src="screenshots/04_results.png" width="200" alt="Results screen" />
-</p>
 
 **Home** &mdash; Toggle the countdown timer and start a round | **Quiz** &mdash; Spin the 3D globe and pick from 4 choices | **Feedback** &mdash; Correct answer in green, wrong in red, globe flies to the capital | **Results** &mdash; Score breakdown with full answer review
 
