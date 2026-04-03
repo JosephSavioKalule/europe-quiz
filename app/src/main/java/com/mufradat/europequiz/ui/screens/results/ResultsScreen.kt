@@ -46,7 +46,7 @@ fun ResultsScreen(
     val result = QuizViewModel.lastResult
 
     val message = when {
-        percentage >= 90 -> "Outstanding! You're an Africa expert!"
+        percentage >= 90 -> "Outstanding! You're a European expert!"
         percentage >= 70 -> "Great job! You know your capitals!"
         percentage >= 50 -> "Not bad! Keep learning!"
         percentage >= 30 -> "Keep practicing, you'll improve!"
